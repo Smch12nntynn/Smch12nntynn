@@ -2,7 +2,7 @@
 
 ### 😄 Sobre 
  - Pronome: Ele/Dele
- - Lingua: Pt-br/Ingles
+ - Língua: Pt-br/Inglês
 ### 🚀 Skills
 
 <div>

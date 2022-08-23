@@ -2,7 +2,7 @@
 
 
 ### 😄 Sobre 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Smch12nntynn&color=blue" alt="Profile views" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Smch12nntynn&color=blue" alt="Profile views" /><br/>
  - Pronome: Ele/Dele
 
 ### 🚀 Tech Stack

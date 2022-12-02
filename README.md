@@ -39,7 +39,7 @@ class Smch12nntynn {
    self.place_of_birth = 'Rio de Janeiro',
    self.work = 'comming soon 👏'
    self.web = 'comming soon'
-   self.studying : ['Fornt/Back frameWorks', 
+   self.studying : ['Front/Back frameWorks', 
             'Algorithms', 'Data Structures']
    self.code = { 'frontend' : ['ReactJs'],
                    'backend' : ['NodeJs',] }
@@ -64,7 +64,7 @@ class Smch12nntynn {
      wannabe.work = 'Apple',
      wannabe.living = 'Rio de Janeiro',
      wannabe.college = 'Data Science',
-     wannabe.PhD = 'Ai Security Service',
+     wannabe.PhD = 'AI Security Service',
      wannabe.study = [ 'Linux', 'Python',
        'Intro to Information Security',
                       'Cloud Service', ]

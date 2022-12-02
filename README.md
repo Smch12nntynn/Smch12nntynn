@@ -15,7 +15,11 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=smch12nntynn)](https://github.com/ryo-ma/github-profile-trophy)
   
  </div>
- <br/> 
+ <br/>
+ 
+ **_<p align="center">THIS PERFIL IS NOT MOBILE FRIENDILY SORRY !🥲<p>_**
+ 
+ <br/>
  
  #
  # <p align="center">MY SELF<p/>

@@ -28,17 +28,17 @@
  ```ruby 38 - 23 = 15  
 class Smch12nntynn {
    
-   init (self) {
-      self.nickname = 'Smch12',
-      self.name = 'Michel Marques',
-      self.age = '23',
-      self.place_of_birth = 'Rio de Janeiro',
-      self.work = 'comming soon 👏'
-      self.web = 'comming soon'
-      self.studying : ['Fornt/Back frameWorks', 
-               'Algorithms', 'Data Structures']
-      self.code = { 'frontend' : ['ReactJs'],
-                    'backend' : ['NodeJs',] }
+ init (self) {
+   self.nickname = 'Smch12',
+   self.name = 'Michel Marques',
+   self.age = '23',
+   self.place_of_birth = 'Rio de Janeiro',
+   self.work = 'comming soon 👏'
+   self.web = 'comming soon'
+   self.studying : ['Fornt/Back frameWorks', 
+            'Algorithms', 'Data Structures']
+   self.code = { 'frontend' : ['ReactJs'],
+                   'backend' : ['NodeJs',] }
       }
 
 ```
@@ -53,17 +53,17 @@ class Smch12nntynn {
    ```ruby 63 - 47 = 16
 class Smch12nntynn {
    
-   #dream (wannabe) {
-      wannabe.work = 'Apple',
-      wannabe.living = 'Rio de Janeiro',
-      wannabe.college = 'Data Science',
-      wannabe.PhD = 'Ai Security Service',
-      wannabe.study = [ 'Linux', 'Python',
-          'Intro to Information Security',
-                        'Cloud Service', ]
+  dream (wannabe) {
+ 
+     wannabe.work = 'Apple',
+     wannabe.living = 'Rio de Janeiro',
+     wannabe.college = 'Data Science',
+     wannabe.PhD = 'Ai Security Service',
+     wannabe.study = [ 'Linux', 'Python',
+       'Intro to Information Security',
+                      'Cloud Service', ]
       }
 
- 
  
  
  

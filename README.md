@@ -36,7 +36,7 @@ class Smch12nntynn {
       self.work = 'comming soon 👏'
       self.web = 'comming soon'
       self.studying : ['Fornt/Back frameWorks', 
-                'Algorithms', 'Data Structures']
+               'Algorithms', 'Data Structures']
       self.code = { 'frontend' : ['ReactJs'],
                     'backend' : ['NodeJs',] }
       }

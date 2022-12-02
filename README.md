@@ -25,7 +25,7 @@
  
 <img src="https://media.giphy.com/media/7xB2sQsmLGY1ygWxcX/giphy.gif" align="right" alt="GIF" width="260" height="320" /><img src="https://media.giphy.com/media/xT0Gqh1h62wF5HGt6o/giphy.gif" align="left" alt="GIF" width="260" height="320" /> 
  
- ```ruby 38 - 23 = 15  
+ ```ruby   
 class Smch12nntynn {
    
  init (self) {
@@ -52,7 +52,7 @@ class Smch12nntynn {
  
 <br/><br/><img src="https://media.giphy.com/media/xULW8sLhkfUPExSPkY/giphy.gif" align="right" alt="GIF" width="260" height="320" /> <img src="https://media.giphy.com/media/26gN2uNNT54j3VYPK/giphy.gif" align="left" alt="GIF" width="260" height="320" />
  
-   ```ruby 63 - 47 = 16
+   ```ruby 
 class Smch12nntynn {
    
   dream (wannabe) {
@@ -66,6 +66,8 @@ class Smch12nntynn {
                       'Cloud Service', ]
       }
 
+ 
+ 
  
  
  

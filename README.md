@@ -17,7 +17,7 @@
  </div>
  <br/>
  
- **_<p align="center">THIS PERFIL IS NOT MOBILE FRIENDILY SORRY !🥲<p>_**
+ **_<p align="center">THIS PERFILE IS NOT MOBILE FRIENDILY SORRY !🥲<p>_**
  
  <br/>
  
@@ -37,12 +37,12 @@ class Smch12nntynn {
    self.name = 'Michel Marques',
    self.age = '23',
    self.place_of_birth = 'Rio de Janeiro',
-   self.work = 'comming soon 👏'
-   self.web = 'comming soon'
-   self.studying : ['Front/Back frameWorks', 
+   self.work = 'Comming Soon 👏'
+   self.web = 'Comming Soon'
+   self.studying : ['Front/Back FrameWorks', 
             'Algorithms', 'Data Structures']
-   self.code = { 'frontend' : ['ReactJs'],
-                   'backend' : ['NodeJs',] }
+   self.code = { 'Frontend' : ['ReactJs'],
+                   'Backend' : ['NodeJs',] }
       }
 
  
